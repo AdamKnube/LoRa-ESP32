@@ -15,16 +15,6 @@ static const unsigned long LOR_IPR = 115200;
 static const unsigned long LOR_BAND = 915000000;
 
 // Globals
-//WiFiClient wlan;
-//EspMQTTClient client(
-//  "Sith_Empire",
-//  "Tw@tW@ffl3",
-//  "home-assist.moardots.notld",
-//  "mqtt-broker",
-//  "Hf7E8aRqcu",
-//  "LoRaBroker",
-//  1883
-//);
 
 // Functions
 
